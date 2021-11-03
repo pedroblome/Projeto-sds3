@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
 :root {
-    --color-primary: #FF8400;
+    --color-primary: #1ac714;
 }
 
 html, body {
@@ -20,7 +20,7 @@ html, body {
 
 .footer {
     flex-shrink: 0;
-    text-align: center;
+    text-align: end;
 }
 
 .bg-primary {
